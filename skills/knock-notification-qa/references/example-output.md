@@ -4,6 +4,12 @@ description: "A sample of what Notification QA produces."
 category: knock-notification-qa
 channel: "PR #812 comment"
 heading: "Notification QA: 3 issues in 2 workflows"
+card:
+  title: "3 issues in 2 workflows"
+  label: "Trial ending"
+  detail: "Button link has no fallback"
+  primary: "See issues"
+  secondary: "Ignore"
 ---
 
 # Example output

@@ -4,6 +4,12 @@ description: "A sample of what Changelog announcer produces."
 category: knock-changelog-announcer
 channel: "#launches"
 heading: "Draft: Release v2.14 announcement"
+card:
+  title: "v2.14 notes are ready"
+  label: "Announcement draft"
+  detail: "Slack replies now thread"
+  primary: "Review post"
+  secondary: "Hold"
 ---
 
 # Example output

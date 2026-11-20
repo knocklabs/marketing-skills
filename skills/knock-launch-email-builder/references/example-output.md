@@ -4,6 +4,12 @@ description: "A sample of what Launch email builder produces."
 category: knock-launch-email-builder
 channel: "Knock draft"
 heading: "Launch email: warehouse sync"
+card:
+  title: "Launch email is ready"
+  label: "Subject line"
+  detail: "Warehouse sync is ready"
+  primary: "Open email"
+  secondary: "Edit"
 ---
 
 # Example output

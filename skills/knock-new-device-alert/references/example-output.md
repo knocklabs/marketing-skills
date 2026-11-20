@@ -4,6 +4,11 @@ description: "A sample of what New device alert produces."
 category: knock-new-device-alert
 channel: "Knock draft"
 heading: "New device"
+card:
+  title: "New device sign-in"
+  label: "Security alert"
+  detail: "Chrome on macOS, today"
+  primary: "Review alert"
 ---
 
 # Example output

@@ -4,6 +4,11 @@ description: "A sample of what AI visibility report produces."
 category: knock-ai-visibility-report
 channel: "#aeo"
 heading: "AI visibility: week of Nov 16"
+card:
+  title: "Mention rate slipped"
+  label: "AI answer check"
+  detail: "Cited on 2 of 10 prompts"
+  primary: "Open report"
 ---
 
 # Example output

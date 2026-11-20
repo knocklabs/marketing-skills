@@ -4,6 +4,12 @@ description: "A sample of what Landing page critique produces."
 category: knock-landing-page-critique
 channel: "Pull request comment"
 heading: "Critique: warehouse sync launch page"
+card:
+  title: "Landing page notes"
+  label: "Change this line"
+  detail: "Headline repeats the nav"
+  primary: "Read notes"
+  secondary: "Keep"
 ---
 
 # Example output

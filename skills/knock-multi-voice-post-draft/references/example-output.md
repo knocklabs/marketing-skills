@@ -4,6 +4,11 @@ description: "A sample of what Multi-voice post draft produces."
 category: knock-multi-voice-post-draft
 channel: "#social"
 heading: "Posts: warehouse sync"
+card:
+  title: "4 post drafts ready"
+  label: "Same idea, four voices"
+  detail: "Why we built Knock MCP"
+  primary: "Review posts"
 ---
 
 # Example output

@@ -4,6 +4,12 @@ description: "A sample of what Messaging performance review produces."
 category: knock-messaging-performance-review
 channel: "#lifecycle"
 heading: "Messaging review: week of Nov 16"
+card:
+  title: "Last week's messages"
+  label: "Keep this workflow"
+  detail: "Invite reminder, 38% open"
+  primary: "Read review"
+  secondary: "Skip"
 ---
 
 # Example output

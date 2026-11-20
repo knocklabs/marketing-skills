@@ -4,6 +4,11 @@ description: "A sample of what Signup friction review produces."
 category: knock-signup-friction-review
 channel: "knock-plan.md"
 heading: "Signup friction"
+card:
+  title: "Signup stalls at step 2"
+  label: "Drop-off"
+  detail: "Team invite, 41% exit"
+  primary: "See steps"
 ---
 
 # Example output

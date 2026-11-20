@@ -4,6 +4,11 @@ description: "A sample of what Comparison page brief produces."
 category: knock-comparison-page-brief
 channel: "Notion"
 heading: "Brief: Knock and Courierly"
+card:
+  title: "Comparison brief ready"
+  label: "Sourced claims only"
+  detail: "Knock and Courierly"
+  primary: "Open brief"
 ---
 
 # Example output

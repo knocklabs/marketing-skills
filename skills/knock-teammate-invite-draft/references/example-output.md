@@ -4,6 +4,12 @@ description: "A sample of what Teammate invite draft produces."
 category: knock-teammate-invite-draft
 channel: "Knock draft"
 heading: "Teammate invite"
+card:
+  title: "Invite email is drafted"
+  label: "Teammate invite"
+  detail: "Sam invited you to Northwind"
+  primary: "Review invite"
+  secondary: "Edit"
 ---
 
 # Example output

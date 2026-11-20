@@ -4,6 +4,12 @@ description: "A sample of what Usage limit notice produces."
 category: knock-usage-limit-notice
 channel: "Knock draft"
 heading: "Usage limit: messages"
+card:
+  title: "Usage is near the cap"
+  label: "Plan threshold"
+  detail: "92% of the monthly messages"
+  primary: "Review notice"
+  secondary: "Hold"
 ---
 
 # Example output

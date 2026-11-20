@@ -4,6 +4,12 @@ description: "A sample of what Account list keeper produces."
 category: knock-account-list-keeper
 channel: "Attio note"
 heading: "Account list proposals"
+card:
+  title: "4 list edits proposed"
+  label: "Add to the target list"
+  detail: "Halcyon Health, new logo"
+  primary: "Review edits"
+  secondary: "Skip"
 ---
 
 # Example output

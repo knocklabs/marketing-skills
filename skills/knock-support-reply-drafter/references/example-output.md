@@ -4,6 +4,12 @@ description: "A sample of what Support reply drafter produces."
 category: knock-support-reply-drafter
 channel: "Intercom internal note"
 heading: "Draft reply (confidence: high)"
+card:
+  title: "New reply to review"
+  label: "Intercom draft"
+  detail: "How do I pause a workflow?"
+  primary: "Review reply"
+  secondary: "Skip"
 ---
 
 # Example output

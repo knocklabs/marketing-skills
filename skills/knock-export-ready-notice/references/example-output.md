@@ -4,6 +4,12 @@ description: "A sample of what Export ready notice produces."
 category: knock-export-ready-notice
 channel: "Knock draft"
 heading: "Export ready"
+card:
+  title: "Export is ready"
+  label: "Download notice"
+  detail: "Link stays live for 7 days"
+  primary: "Review notice"
+  secondary: "Hold"
 ---
 
 # Example output

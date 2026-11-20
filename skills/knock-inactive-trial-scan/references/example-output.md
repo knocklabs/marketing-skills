@@ -4,6 +4,12 @@ description: "A sample of what Inactive trial scan produces."
 category: knock-inactive-trial-scan
 channel: "#trials"
 heading: "Inactive trials: 4 accounts"
+card:
+  title: "4 trials went quiet"
+  label: "No activity for 30 days"
+  detail: "Northwind, ends Friday"
+  primary: "Review list"
+  secondary: "Wait"
 ---
 
 # Example output

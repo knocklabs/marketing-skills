@@ -4,6 +4,12 @@ description: "A sample of what Internal link finder produces."
 category: knock-internal-link-finder
 channel: "Chat"
 heading: "Links to /features/workflows"
+card:
+  title: "8 pages should link here"
+  label: "Suggested anchor"
+  detail: "Notification preferences"
+  primary: "See links"
+  secondary: "Skip"
 ---
 
 # Example output

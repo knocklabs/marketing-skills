@@ -4,6 +4,11 @@ description: "A sample of what Onboarding workflow audit produces."
 category: knock-onboarding-workflow-audit
 channel: "knock-plan.md"
 heading: "Onboarding opportunities (5 ranked)"
+card:
+  title: "5 onboarding gaps"
+  label: "Missing workflow"
+  detail: "Invite accepted, no follow-up"
+  primary: "Open plan"
 ---
 
 # Example output

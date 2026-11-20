@@ -4,6 +4,12 @@ description: "A sample of what Password reset draft produces."
 category: knock-password-reset-draft
 channel: "Knock draft"
 heading: "Password reset"
+card:
+  title: "Reset email is drafted"
+  label: "Single-use link"
+  detail: "Expires in 30 minutes"
+  primary: "Review email"
+  secondary: "Edit"
 ---
 
 # Example output

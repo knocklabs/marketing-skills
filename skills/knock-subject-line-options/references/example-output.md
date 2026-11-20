@@ -4,6 +4,11 @@ description: "A sample of what Subject line options produces."
 category: knock-subject-line-options
 channel: "Chat"
 heading: "Subjects: trial-ending"
+card:
+  title: "5 subject lines ready"
+  label: "Test this first"
+  detail: "Your trial ends Thursday"
+  primary: "Review lines"
 ---
 
 # Example output

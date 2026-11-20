@@ -4,6 +4,12 @@ description: "A sample of what Positioning page draft produces."
 category: knock-positioning-page-draft
 channel: "Notion"
 heading: "Draft: lifecycle page"
+card:
+  title: "Lifecycle page drafted"
+  label: "From the brand doc"
+  detail: "Notifications, without the glue"
+  primary: "Read draft"
+  secondary: "Revise"
 ---
 
 # Example output

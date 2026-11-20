@@ -4,6 +4,12 @@ description: "A sample of what API key notice produces."
 category: knock-api-key-notice
 channel: "Knock draft"
 heading: "API key notice"
+card:
+  title: "API key was created"
+  label: "Security notice"
+  detail: "Production key, created today"
+  primary: "Review notice"
+  secondary: "Hold"
 ---
 
 # Example output

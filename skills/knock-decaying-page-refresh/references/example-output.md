@@ -4,6 +4,12 @@ description: "A sample of what Decaying page refresh produces."
 category: knock-decaying-page-refresh
 channel: "Chat"
 heading: "Refresh: /blog/notification-infrastructure"
+card:
+  title: "This page is slipping"
+  label: "Refresh brief"
+  detail: "Add a preferences section"
+  primary: "Open brief"
+  secondary: "Later"
 ---
 
 # Example output

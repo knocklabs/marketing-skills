@@ -4,6 +4,11 @@ description: "A sample of what Weekly ads report produces."
 category: knock-weekly-ads-report
 channel: "#paid"
 heading: "Ads report: week of Nov 16"
+card:
+  title: "Weekly ads note"
+  label: "Return slipped"
+  detail: "Search CPA up 18%"
+  primary: "Open report"
 ---
 
 # Example output

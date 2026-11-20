@@ -4,6 +4,12 @@ description: "A sample of what Ad refresh brief produces."
 category: knock-ad-refresh-brief
 channel: "Notion"
 heading: "Refresh: LinkedIn retargeting, ad 14"
+card:
+  title: "2 ads need new copy"
+  label: "Replacement line"
+  detail: "Ship notifications in a day"
+  primary: "Open brief"
+  secondary: "Pause ad"
 ---
 
 # Example output

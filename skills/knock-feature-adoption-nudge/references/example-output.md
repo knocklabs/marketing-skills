@@ -4,6 +4,12 @@ description: "A sample of what Feature adoption nudge produces."
 category: knock-feature-adoption-nudge
 channel: "Knock draft"
 heading: "Nudge: guides"
+card:
+  title: "Nudge draft is ready"
+  label: "Feature not tried"
+  detail: "Guides, no opens in 14 days"
+  primary: "Review nudge"
+  secondary: "Hold"
 ---
 
 # Example output

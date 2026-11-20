@@ -4,6 +4,12 @@ description: "A sample of what Failed payment notice produces."
 category: knock-failed-payment-notice
 channel: "Knock draft"
 heading: "Payment failed"
+card:
+  title: "Payment failed notice"
+  label: "Card on file"
+  detail: "Visa ending 4242 declined"
+  primary: "Review notice"
+  secondary: "Hold"
 ---
 
 # Example output

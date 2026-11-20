@@ -4,6 +4,12 @@ description: "A sample of what Approval request draft produces."
 category: knock-approval-request-draft
 channel: "Knock draft"
 heading: "Approval request"
+card:
+  title: "Approval request drafted"
+  label: "Needs a decision"
+  detail: "Q2 launch email, pending"
+  primary: "Review request"
+  secondary: "Edit"
 ---
 
 # Example output

@@ -4,6 +4,12 @@ description: "A sample of what Comment opportunity finder produces."
 category: knock-comment-opportunity-finder
 channel: "#social"
 heading: "Comments for today"
+card:
+  title: "3 posts worth a reply"
+  label: "Drafted comment"
+  detail: "Thread on notification debt"
+  primary: "Review"
+  secondary: "Skip"
 ---
 
 # Example output

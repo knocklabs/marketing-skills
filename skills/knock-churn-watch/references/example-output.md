@@ -4,6 +4,12 @@ description: "A sample of what Churn watch produces."
 category: knock-churn-watch
 channel: "#cs-signals"
 heading: "Churn watch: 3 accounts need a look"
+card:
+  title: "3 accounts need a look"
+  label: "Suggested save play"
+  detail: "Northwind Labs, down 62%"
+  primary: "Review drafts"
+  secondary: "Skip"
 ---
 
 # Example output

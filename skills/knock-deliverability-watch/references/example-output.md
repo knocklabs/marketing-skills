@@ -4,6 +4,11 @@ description: "A sample of what Deliverability watch produces."
 category: knock-deliverability-watch
 channel: "#lifecycle"
 heading: "Deliverability watch: week of Nov 16"
+card:
+  title: "Delivery rate dropped"
+  label: "This week's issue"
+  detail: "Bounces up on trial mail"
+  primary: "See issues"
 ---
 
 # Example output

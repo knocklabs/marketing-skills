@@ -4,6 +4,12 @@ description: "A sample of what Snippet rewriter produces."
 category: knock-snippet-rewriter
 channel: "Chat"
 heading: "Snippet: /features/workflows"
+card:
+  title: "New title and description"
+  label: "Ship this snippet"
+  detail: "In-app notifications for SaaS"
+  primary: "Compare"
+  secondary: "Rewrite"
 ---
 
 # Example output

@@ -4,6 +4,12 @@ description: "A sample of what Ad to page match produces."
 category: knock-ad-to-page-match
 channel: "Chat"
 heading: "Match: warehouse sync ad"
+card:
+  title: "Ad and page disagree"
+  label: "Promise check"
+  detail: "Ad says SMS, page says email"
+  primary: "See mismatch"
+  secondary: "Ignore"
 ---
 
 # Example output

@@ -4,6 +4,12 @@ description: "A sample of what Broadcast audience check produces."
 category: knock-broadcast-audience-check
 channel: "Chat"
 heading: "Audience check: warehouse sync launch"
+card:
+  title: "Broadcast would skip 18%"
+  label: "Before you send"
+  detail: "Opted out of product news"
+  primary: "See counts"
+  secondary: "Adjust"
 ---
 
 # Example output

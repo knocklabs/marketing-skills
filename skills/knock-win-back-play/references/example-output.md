@@ -4,6 +4,12 @@ description: "A sample of what Win-back play produces."
 category: knock-win-back-play
 channel: "#lifecycle"
 heading: "Win-back play: March"
+card:
+  title: "Win-back groups are set"
+  label: "One step to offer"
+  detail: "Reconnect the Slack channel"
+  primary: "Review plays"
+  secondary: "Skip"
 ---
 
 # Example output

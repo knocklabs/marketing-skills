@@ -4,6 +4,12 @@ description: "A sample of what Keyword priority setter produces."
 category: knock-keyword-priority-setter
 channel: "Slack"
 heading: "Keyword priorities for December"
+card:
+  title: "December keyword list"
+  label: "Write this first"
+  detail: "In-app notification feed"
+  primary: "See list"
+  secondary: "Skip"
 ---
 
 # Example output

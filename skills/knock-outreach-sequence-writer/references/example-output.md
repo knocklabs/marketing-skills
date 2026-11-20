@@ -4,6 +4,12 @@ description: "A sample of what Outreach sequence writer produces."
 category: knock-outreach-sequence-writer
 channel: "Notion"
 heading: "Sequence: data teams, series C"
+card:
+  title: "3-step sequence drafted"
+  label: "First email"
+  detail: "Your trial ends Thursday"
+  primary: "Review"
+  secondary: "Rewrite"
 ---
 
 # Example output

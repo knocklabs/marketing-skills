@@ -4,6 +4,12 @@ description: "A sample of what Account data lookup produces."
 category: knock-account-data-lookup
 channel: "Chat"
 heading: "Northwind Labs"
+card:
+  title: "Northwind Labs"
+  label: "Account answer"
+  detail: "Last message, 11 days ago"
+  primary: "Open answer"
+  secondary: "Ask again"
 ---
 
 # Example output

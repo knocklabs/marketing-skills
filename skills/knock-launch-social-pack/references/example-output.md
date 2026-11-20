@@ -4,6 +4,12 @@ description: "A sample of what Launch social pack produces."
 category: knock-launch-social-pack
 channel: "#launches"
 heading: "Social pack: warehouse sync"
+card:
+  title: "Launch posts are sequenced"
+  label: "Day-of post"
+  detail: "Warehouse sync is in beta"
+  primary: "Review pack"
+  secondary: "Hold"
 ---
 
 # Example output

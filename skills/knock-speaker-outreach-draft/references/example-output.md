@@ -4,6 +4,12 @@ description: "A sample of what Speaker outreach draft produces."
 category: knock-speaker-outreach-draft
 channel: "Notion"
 heading: "Draft: speaker ask for the March dinner"
+card:
+  title: "Speaker note is drafted"
+  label: "Deadline in the draft"
+  detail: "CFP closes March 14"
+  primary: "Review draft"
+  secondary: "Hold"
 ---
 
 # Example output

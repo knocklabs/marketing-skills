@@ -4,6 +4,12 @@ description: "A sample of what Contact list enrichment produces."
 category: knock-contact-list-enrichment
 channel: "Attio note"
 heading: "Contacts ready for outreach"
+card:
+  title: "6 contacts still thin"
+  label: "Missing before outreach"
+  detail: "No title on 4 records"
+  primary: "See gaps"
+  secondary: "Skip"
 ---
 
 # Example output

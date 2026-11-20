@@ -4,6 +4,12 @@ description: "A sample of what Search term cleanup produces."
 category: knock-search-term-cleanup
 channel: "#paid"
 heading: "Search terms to negate"
+card:
+  title: "14 queries to negate"
+  label: "Search term cleanup"
+  detail: "Free Slack bot, broad match"
+  primary: "Review queries"
+  secondary: "Keep"
 ---
 
 # Example output

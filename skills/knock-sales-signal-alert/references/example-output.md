@@ -4,6 +4,12 @@ description: "A sample of what Sales signal alert produces."
 category: knock-sales-signal-alert
 channel: "Attio note"
 heading: "Signal: Northwind"
+card:
+  title: "Buying signal logged"
+  label: "Ready to send"
+  detail: "Northwind opened pricing"
+  primary: "Review alert"
+  secondary: "Snooze"
 ---
 
 # Example output

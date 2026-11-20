@@ -4,6 +4,12 @@ description: "A sample of what Launch announcement draft produces."
 category: knock-launch-announcement-draft
 channel: "Notion"
 heading: "Warehouse sync announcement"
+card:
+  title: "Launch copy is drafted"
+  label: "Announcement"
+  detail: "Warehouse sync is in beta"
+  primary: "Review draft"
+  secondary: "Hold"
 ---
 
 # Example output

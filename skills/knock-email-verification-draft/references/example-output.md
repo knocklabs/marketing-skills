@@ -4,6 +4,12 @@ description: "A sample of what Email verification draft produces."
 category: knock-email-verification-draft
 channel: "Knock draft"
 heading: "Verify email"
+card:
+  title: "Verification email drafted"
+  label: "Confirm this address"
+  detail: "Link expires in 24 hours"
+  primary: "Review email"
+  secondary: "Edit"
 ---
 
 # Example output

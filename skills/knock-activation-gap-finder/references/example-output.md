@@ -4,6 +4,11 @@ description: "A sample of what Activation gap finder produces."
 category: knock-activation-gap-finder
 channel: "knock-plan.md"
 heading: "Activation gaps"
+card:
+  title: "3 moments, no message"
+  label: "First week"
+  detail: "Invited a teammate, then left"
+  primary: "See gaps"
 ---
 
 # Example output

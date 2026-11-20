@@ -4,6 +4,12 @@ description: "A sample of what Win-back email produces."
 category: knock-win-back-email
 channel: "Knock draft"
 heading: "Win-back: no activity for 45 days"
+card:
+  title: "Win-back email drafted"
+  label: "Quiet for 45 days"
+  detail: "We saved your setup"
+  primary: "Review email"
+  secondary: "Hold"
 ---
 
 # Example output

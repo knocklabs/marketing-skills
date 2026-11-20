@@ -4,6 +4,11 @@ description: "A sample of what Page SEO audit produces."
 category: knock-page-seo-audit
 channel: "Chat"
 heading: "SEO audit: /features/workflows"
+card:
+  title: "Page audit is ready"
+  label: "Fix this first"
+  detail: "Title tag is 71 characters"
+  primary: "Open fixes"
 ---
 
 # Example output

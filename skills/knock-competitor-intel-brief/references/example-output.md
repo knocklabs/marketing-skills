@@ -4,6 +4,12 @@ description: "A sample of what Competitor intel brief produces."
 category: knock-competitor-intel-brief
 channel: "#competitive"
 heading: "Competitor brief: week of Nov 16"
+card:
+  title: "2 competitors shipped"
+  label: "This week's brief"
+  detail: "Linear added custom views"
+  primary: "Read brief"
+  secondary: "Skip"
 ---
 
 # Example output

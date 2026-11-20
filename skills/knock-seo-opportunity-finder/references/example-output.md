@@ -4,6 +4,12 @@ description: "A sample of what SEO opportunity finder produces."
 category: knock-seo-opportunity-finder
 channel: "#seo"
 heading: "SEO opportunities: November"
+card:
+  title: "5 keywords in range"
+  label: "Striking distance"
+  detail: "Notification templates, rank 8"
+  primary: "See keywords"
+  secondary: "Skip"
 ---
 
 # Example output
