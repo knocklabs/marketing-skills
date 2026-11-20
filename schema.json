@@ -1,0 +1,73 @@
+{
+  "teams": [
+    {"id": "marketing", "label": "Marketing"},
+    {"id": "gtm", "label": "GTM"},
+    {"id": "lifecycle", "label": "Lifecycle"},
+    {"id": "product", "label": "Product"},
+    {"id": "engineering", "label": "Engineering"}
+  ],
+  "jobs": [
+    {"id": "seo", "label": "SEO"},
+    {"id": "website", "label": "Website"},
+    {"id": "content", "label": "Content"},
+    {"id": "messaging", "label": "Messaging"},
+    {"id": "analytics", "label": "Analytics"},
+    {"id": "social", "label": "Social"},
+    {"id": "paid-ads", "label": "Paid ads"},
+    {"id": "outbound", "label": "Outbound"},
+    {"id": "abm", "label": "ABM"},
+    {"id": "brand", "label": "Brand"}
+  ],
+  "stages": [
+    {"id": "acquisition", "label": "Acquisition"},
+    {"id": "activation", "label": "Activation"},
+    {"id": "engagement", "label": "Engagement"},
+    {"id": "retention", "label": "Retention"},
+    {"id": "win-back", "label": "Win-back"}
+  ],
+  "triggers": [
+    {"id": "schedule", "label": "Schedule"},
+    {"id": "event", "label": "Event"},
+    {"id": "manual", "label": "Manual"}
+  ],
+  "providers": [
+    {"id": "claude", "label": "Claude + Claude Code"},
+    {"id": "chatgpt", "label": "ChatGPT + Codex"},
+    {"id": "grok", "label": "Grok Bot"},
+    {"id": "cursor", "label": "Cursor"}
+  ],
+  "toolCategories": [
+    {"id": "messaging", "label": "messaging", "knock": true},
+    {"id": "messaging-mcp", "label": "messaging", "knock": true},
+    {"id": "messaging-cli", "label": "messaging", "knock": true},
+    {"id": "analytics", "label": "analytics"},
+    {"id": "chat", "label": "chat"},
+    {"id": "code", "label": "code"},
+    {"id": "search", "label": "web search"},
+    {"id": "seo", "label": "SEO"},
+    {"id": "aeo", "label": "AEO"},
+    {"id": "support", "label": "support desk"},
+    {"id": "docs", "label": "docs"},
+    {"id": "warehouse", "label": "warehouse"},
+    {"id": "unify", "label": "outbound"},
+    {"id": "attio", "label": "CRM"},
+    {"id": "google-analytics", "label": "web analytics"},
+    {"id": "ordinal", "label": "social"},
+    {"id": "omni", "label": "customer data"},
+    {"id": "granola", "label": "meetings"},
+    {"id": "ramp", "label": "spend"},
+    {"id": "clay", "label": "enrichment"},
+    {"id": "figma", "label": "design"},
+    {"id": "linear", "label": "issues"},
+    {"id": "linkedin", "label": "social"},
+    {"id": "x", "label": "social"},
+    {"id": "reddit", "label": "social"},
+    {"id": "octolens", "label": "listening"},
+    {"id": "pylon", "label": "support"}
+  ],
+  "pairTypes": ["workflows", "components", "partials"],
+  "metadata": {
+    "required": ["title", "slug", "tagline", "summary", "teams", "job", "tools", "trigger", "trigger-detail", "output", "providers", "icon", "pairs-with"],
+    "optional": ["stage", "based-on", "based-on-source", "based-on-install"]
+  }
+}

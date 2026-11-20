@@ -1,0 +1,14 @@
+{
+  "name": "knock-marketing",
+  "displayName": "Knock marketing skills",
+  "version": "1.0.0",
+  "description": "Agent skills for marketing, growth, and lifecycle teams",
+  "author": {
+    "name": "Knock Labs",
+    "email": "support@knock.app"
+  },
+  "homepage": "https://knock.app",
+  "repository": "https://github.com/knocklabs/marketing-skills",
+  "license": "MIT",
+  "keywords": ["knock", "marketing", "growth", "lifecycle", "seo", "skills"]
+}

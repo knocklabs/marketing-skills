@@ -1,0 +1,12 @@
+{
+  "name": "knock-marketing-skills",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "validate": "node scripts/validate-skills.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
