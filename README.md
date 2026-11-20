@@ -103,6 +103,39 @@ Or copy a skill folder to `.cursor/skills/<name>/`, then ask the agent to run th
 
 Every `SKILL.md` body is self-contained. Copy everything below the frontmatter and paste it into a ChatGPT chat, a custom GPT, Codex, or Grok Bot. For Grok Bot, create a bot with the trigger listed under `## When to use`, connect the tools listed under `## Tools`, and paste the body as the bot instructions.
 
+## Updating the skills on knock.app
+
+Every skill on [knock.app/skills](https://knock.app/skills) comes from this repo. The website reads from it, so content changes happen here, not in the website's code.
+
+### What you can change here
+
+- Add a new skill, or edit or remove one.
+- A skill's instructions, tools, guardrails, use cases, FAQ, and example output.
+- The chat card at the top of a skill's page. It's the `card` section at the top of the skill's `example-output.md`.
+- The order skills appear in on knock.app, in `directory.json`.
+- The names shown for teams, jobs, triggers, and tools, in `schema.json`.
+
+### How a change goes live
+
+1. Open a pull request here with your change. A check runs on it and tells you if anything is missing or wrong, like a team name that doesn't exist.
+2. Merge it once the check passes.
+3. Update the website to the latest version of this repo. Ask an engineer, or ask your AI coding agent: "In knocklabs/marketing-site, update the marketing-skills submodule to the latest main and open a pull request."
+4. When that website pull request merges, knock.app updates.
+
+Merging here doesn't change the website on its own. Step 3 is what brings your changes over.
+
+### What still needs a website change
+
+A few things live in the website's code. Ask an engineer, or include them in the step 3 pull request:
+
+- A new kind of tool, like a new CRM. It needs a logo.
+- A new team or job. It needs an icon for the filters.
+- A new icon for a skill's avatar.
+- A new AI tool tab beside Claude, ChatGPT, Grok Bot, and Cursor.
+- Text on the main knock.app/skills page, like the intro and the FAQ.
+
+Most of these stop the website build until the website change is in, so nothing broken goes live. The exception is a new skill icon: the page shows a magnifying glass instead, so check the page once it's live.
+
 ## Skill structure
 
 ```
@@ -123,7 +156,7 @@ skills/
 npm run validate
 ```
 
-The validator checks that every `SKILL.md` has valid frontmatter, that `name` matches its folder, that `description` is within spec limits, that every `metadata` value is a string, and that relative links resolve. It runs on every pull request.
+The validator checks every skill against the Agent Skills spec and against what knock.app needs, like known teams and tools, a guardrails section, and a complete chat card. It runs on every pull request. The knock.app build uses the same checks, so a skill that passes here works on the site.
 
 ## License
 
